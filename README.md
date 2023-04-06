@@ -23,9 +23,9 @@ Put yourself in the shoes of a quality analyst whose task is to test the efficac
 ## Data Description
 This dataset contains the temperature readings from an IoT device installed outside and inside of an anonymous room (labelled as admin room) to test the device. The readings were taken between 11 January 2018 and 10 December 2018. Additionally, it was uninstalled or taken down quite frequently during the entire reading period. There are 5 columns and 97,605 rows in the dataset.
 
-./ Here's the dataset link:
+Here's the dataset link:
 
-https://student-datasets-bucket.s3.ap-south-1.amazonaws.com/whitehat-ds-datasets/iot-devices/IoT-device.csv
+>https://student-datasets-bucket.s3.ap-south-1.amazonaws.com/whitehat-ds-datasets/iot-devices/IoT-device.csv
 
 ## Things To Do
 - What is the trend in the variation in daily indoor and outdoor temperatures?
