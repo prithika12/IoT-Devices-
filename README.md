@@ -15,12 +15,12 @@ Heat stress index of India.
 
 ![image](https://user-images.githubusercontent.com/78560363/230477120-90c85909-04e9-4c31-8342-9879789bdc32.png)
 
-Problem Statement
-Put yourself in the shoes of a quality analyst whose task is to test the efficacy of new IoT devices. You need to create time-series plots for daily temperature variation for the given duration and find any inconsistencies in the temperature readings (if there are any).
+## Problem Statement
+> Put yourself in the shoes of a quality analyst whose task is to test the efficacy of new IoT devices. You need to create time-series plots for daily temperature variation for the given duration and find any inconsistencies in the temperature readings (if there are any).
 
 In case the data collected through the device is correct, find the percentages of the yellow, orange and red zones.
 
-Data Description
+## Data Description
 This dataset contains the temperature readings from an IoT device installed outside and inside of an anonymous room (labelled as admin room) to test the device. The readings were taken between 11 January 2018 and 10 December 2018. Additionally, it was uninstalled or taken down quite frequently during the entire reading period. There are 5 columns and 97,605 rows in the dataset.
 
 id - unique IDs for each reading
@@ -37,13 +37,13 @@ Here's the dataset link:
 
 https://student-datasets-bucket.s3.ap-south-1.amazonaws.com/whitehat-ds-datasets/iot-devices/IoT-device.csv
 
-Things To Do
-What is the trend in the variation in daily indoor and outdoor temperatures?
+## Things To Do
+- What is the trend in the variation in daily indoor and outdoor temperatures?
 
-What is the trend in the variation in monthly median indoor and outdoor temperatures?
+* What is the trend in the variation in monthly median indoor and outdoor temperatures?
 
-Find out the hottest and coldest month(s).
++ Find out the hottest and coldest month(s).
 
-Find the maximum and minimum temperatures recorded for each month.
+- Find the maximum and minimum temperatures recorded for each month.
 
-Find the hottest and coldest days for each month along with the temperatures.
+* Find the hottest and coldest days for each month along with the temperatures.
